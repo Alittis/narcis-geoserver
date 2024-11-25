@@ -1,0 +1,16 @@
+<layer>
+  <name>natura2000</name>
+  <id>LayerInfoImpl-38d8cbe7:19364a81c4d:-7ff8</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-3d2cbac3:19364a5a547:-7ffe</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-38d8cbe7:19364a81c4d:-7ff9</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2024-11-25 18:54:53.727 UTC</dateCreated>
+</layer>

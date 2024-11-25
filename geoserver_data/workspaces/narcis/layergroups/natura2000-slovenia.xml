@@ -1,0 +1,35 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl-38d8cbe7:19364a81c4d:-7ff4</id>
+  <name>natura2000-slovenia</name>
+  <mode>SINGLE</mode>
+  <title>Natura2000 Slovenia</title>
+  <workspace>
+    <id>WorkspaceInfoImpl-38d8cbe7:19364a81c4d:-7ffc</id>
+  </workspace>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl-38d8cbe7:19364a81c4d:-7ff5</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-38d8cbe7:19364a81c4d:-7ff8</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl-3d2cbac3:19364a5a547:-7ffd</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-3d2cbac3:19364a5a547:-7ffe</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>369960.0</minx>
+    <maxx>625038.0</maxx>
+    <miny>26508.0</miny>
+    <maxy>196560.0</maxy>
+    <crs class="projected">EPSG:3794</crs>
+  </bounds>
+  <dateCreated>2024-11-25 18:56:45.457 UTC</dateCreated>
+</layerGroup>

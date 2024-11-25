@@ -1,0 +1,16 @@
+<layer>
+  <name>svn_rjava_1200x800</name>
+  <id>LayerInfoImpl-38d8cbe7:19364a81c4d:-7ff5</id>
+  <type>RASTER</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-3d2cbac3:19364a5a547:-7ffd</id>
+  </defaultStyle>
+  <resource class="coverage">
+    <id>CoverageInfoImpl-38d8cbe7:19364a81c4d:-7ff6</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2024-11-25 18:55:51.354 UTC</dateCreated>
+</layer>
